@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Friendly
   - Dead
+  - WallTrigger
+  - Collision
+  - SlowBlock
   layers:
   - Default
   - TransparentFX
